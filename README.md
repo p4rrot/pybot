@@ -1,3 +1,3 @@
 # pybot
 Telegram bot controller
-requires requests
+requires requests library 
